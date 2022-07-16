@@ -7,3 +7,4 @@ Lemon
 Ginger
 Garrlic
 Spinich
+potato
